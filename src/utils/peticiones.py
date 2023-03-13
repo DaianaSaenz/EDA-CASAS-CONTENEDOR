@@ -38,5 +38,3 @@ def obtenerInfoPrecioSueloPorDistritoMadrid(zona):
     }
     return requests.get(url, headers=headers)
 
-def getHttp(url):
-    return requests.get(url)
