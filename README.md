@@ -24,5 +24,6 @@ Libreria de Python Matplotlib
 
 ingresa en : para observar los resultados de este analisis
 
+- 📫 How to reach me **daiana-20-@gmail.com**
 
 - :gem: Mi perfil en [Linkedin](https://www.linkedin.com/in/daiana-noelia-saenz)
